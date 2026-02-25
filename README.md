@@ -12,4 +12,4 @@ Simple command-line calculator built with Python.
 - Python 3
 
 ## Author
-hermawan
+wannTech
